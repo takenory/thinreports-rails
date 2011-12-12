@@ -1,0 +1,3 @@
+= ThinReports Rails
+
+This is a ThinReports Generator Extensions for Rails3+.
